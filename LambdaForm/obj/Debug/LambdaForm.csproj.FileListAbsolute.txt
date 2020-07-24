@@ -1,0 +1,9 @@
+C:\Users\Sagie\source\repos\Lambdas\LambdaForm\bin\Debug\LambdaForm.exe.config
+C:\Users\Sagie\source\repos\Lambdas\LambdaForm\bin\Debug\LambdaForm.exe
+C:\Users\Sagie\source\repos\Lambdas\LambdaForm\bin\Debug\LambdaForm.pdb
+C:\Users\Sagie\source\repos\Lambdas\LambdaForm\obj\Debug\LambdaForm.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\Lambdas\LambdaForm\obj\Debug\LambdaForm.Form1.resources
+C:\Users\Sagie\source\repos\Lambdas\LambdaForm\obj\Debug\LambdaForm.Properties.Resources.resources
+C:\Users\Sagie\source\repos\Lambdas\LambdaForm\obj\Debug\LambdaForm.csproj.GenerateResource.cache
+C:\Users\Sagie\source\repos\Lambdas\LambdaForm\obj\Debug\LambdaForm.exe
+C:\Users\Sagie\source\repos\Lambdas\LambdaForm\obj\Debug\LambdaForm.pdb

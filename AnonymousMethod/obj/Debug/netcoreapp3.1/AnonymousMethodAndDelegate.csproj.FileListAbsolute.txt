@@ -1,0 +1,10 @@
+C:\Users\Sagie\source\repos\Lambdas\AnonymousMethod\bin\Debug\netcoreapp3.1\AnonymousMethodAndDelegate.exe
+C:\Users\Sagie\source\repos\Lambdas\AnonymousMethod\bin\Debug\netcoreapp3.1\AnonymousMethodAndDelegate.deps.json
+C:\Users\Sagie\source\repos\Lambdas\AnonymousMethod\bin\Debug\netcoreapp3.1\AnonymousMethodAndDelegate.runtimeconfig.json
+C:\Users\Sagie\source\repos\Lambdas\AnonymousMethod\bin\Debug\netcoreapp3.1\AnonymousMethodAndDelegate.runtimeconfig.dev.json
+C:\Users\Sagie\source\repos\Lambdas\AnonymousMethod\bin\Debug\netcoreapp3.1\AnonymousMethodAndDelegate.dll
+C:\Users\Sagie\source\repos\Lambdas\AnonymousMethod\bin\Debug\netcoreapp3.1\AnonymousMethodAndDelegate.pdb
+C:\Users\Sagie\source\repos\Lambdas\AnonymousMethod\obj\Debug\netcoreapp3.1\AnonymousMethodAndDelegate.AssemblyInfoInputs.cache
+C:\Users\Sagie\source\repos\Lambdas\AnonymousMethod\obj\Debug\netcoreapp3.1\AnonymousMethodAndDelegate.AssemblyInfo.cs
+C:\Users\Sagie\source\repos\Lambdas\AnonymousMethod\obj\Debug\netcoreapp3.1\AnonymousMethodAndDelegate.dll
+C:\Users\Sagie\source\repos\Lambdas\AnonymousMethod\obj\Debug\netcoreapp3.1\AnonymousMethodAndDelegate.pdb
